@@ -1,4 +1,5 @@
 $$
+\large
 \begin{aligned}
 &\text{model} : \theta \times \xi \rightarrow (\chi \times \phi) \rightarrow \psi \\
 &\text{loss} : \psi \times \psi \rightarrow \ell \\
